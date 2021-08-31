@@ -144,11 +144,11 @@ function MyApp({ Component, pageProps }) {
               supplyChannel: {
                 typeId: "channel",
                 //channel id from commercetool
-                id: "a386fdda-6583-4748-b650-ef11c9ad031f",
+                id: "285d249f-877c-4d2a-98c2-95b067f463b4",
               },
               distributionChannel: {
                 typeId: "channel",
-                id: "a386fdda-6583-4748-b650-ef11c9ad031f",
+                id: "285d249f-877c-4d2a-98c2-95b067f463b4",
               },
             },
             {
