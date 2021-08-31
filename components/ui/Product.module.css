@@ -1,0 +1,49 @@
+.product {
+  background-color: rgb(39, 36, 36);
+  width: 95%;
+  border-top: solid 0.5px rgb(247, 244, 240);
+  border-bottom: solid 0.5px rgb(247, 244, 240);
+  border-left: solid 0.5px rgb(247, 244, 240);
+  border-right: solid 0.5px rgb(247, 244, 240);
+  display: inline-block;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  list-style: none;
+  justify-content: end;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+}
+
+.contentText {
+  color: white;
+}
+.contentprice {
+  color: yellow;
+}
+
+.hit {
+  list-style: none;
+}
+.contentdiv {
+  justify-content: end;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+}
+.facetbox {
+  background-color: rgb(39, 36, 36);
+  width: 55%;
+  border-top: solid 0.5px rgb(247, 244, 240);
+  border-bottom: solid 0.5px rgb(247, 244, 240);
+  border-left: solid 0.5px rgb(247, 244, 240);
+  border-right: solid 0.5px rgb(247, 244, 240);
+
+  padding-top: 15px;
+  padding-left: 25px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  color: white;
+}

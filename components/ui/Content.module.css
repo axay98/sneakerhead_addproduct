@@ -1,0 +1,42 @@
+.maindiv {
+  width: 100%;
+  background-color: black;
+}
+.container {
+  margin-left: 5%;
+}
+.div1 {
+  background-color: black;
+  justify-content: end;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+}
+
+.product {
+  background-color: rgb(39, 36, 36);
+  width: 32%;
+  border-top: solid 0.5px rgb(247, 244, 240);
+  border-bottom: solid 0.5px rgb(247, 244, 240);
+  border-left: solid 0.5px rgb(247, 244, 240);
+  border-right: solid 0.5px rgb(247, 244, 240);
+  display: inline-block;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.contentText {
+  color: white;
+}
+.contentprice {
+  color: yellow;
+}
+
+.hit {
+  font-size: 0;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}

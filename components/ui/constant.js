@@ -1,0 +1,1 @@
+export const customerReviewLabel = "Customer Reviews1111"; 
